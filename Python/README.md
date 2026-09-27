@@ -1,0 +1,1 @@
+Python lesson course adapted from: https://programming-24.mooc.fi/
